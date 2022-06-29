@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Metaflix-React-project/static/css/main.d00f5d27.css",
+    "main.js": "/Metaflix-React-project/static/js/main.9d310347.js",
+    "index.html": "/Metaflix-React-project/index.html",
+    "main.d00f5d27.css.map": "/Metaflix-React-project/static/css/main.d00f5d27.css.map",
+    "main.9d310347.js.map": "/Metaflix-React-project/static/js/main.9d310347.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00f5d27.css",
+    "static/js/main.9d310347.js"
+  ]
+}
